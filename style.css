@@ -97,7 +97,7 @@ height: 45px;
 }
 .trailer{
     background: none;
-    border-color:#658E76 ;
+    border:1px solid #658E76 ;
     color: white;
     transform: skewX(-20deg);
     width: 225px;
